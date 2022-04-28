@@ -235,6 +235,7 @@ def Vsepr_model(molecule : str): #POCL3
 
 
 
-# while True :
-#     v = input(': ')
-#     print(Vsepr_model(v))
+# Using Here
+while True :
+    v = input(': ')
+    print(Vsepr_model(v))
